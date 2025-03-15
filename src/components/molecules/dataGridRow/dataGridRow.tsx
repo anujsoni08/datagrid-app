@@ -3,7 +3,7 @@ import StatusIndicator from "../../atoms/StatusIndicator/StatusIndicator";
 
 import { FileData } from "../../../types";
 
-import styles from "./DataGridRow.module.css";
+import styles from "./dataGridRow.module.css";
 
 interface DataGridRowProps {
   item: FileData;

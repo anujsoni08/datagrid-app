@@ -6,7 +6,7 @@ import { formatSelectedItemsForAlert } from "../../../utils/formatters";
 
 import { COLUMN_CONFIG } from "../../../constants";
 
-import styles from "./DataGrid.module.css";
+import styles from "./dataGrid.module.css";
 import { FileData } from "../../../types";
 
 interface DatagridProps {

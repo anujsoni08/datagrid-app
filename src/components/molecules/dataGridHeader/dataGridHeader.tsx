@@ -4,7 +4,7 @@ import Button from "../../atoms/Button/Button";
 import { CHECKBOX_STATES } from "../../../constants";
 import download from "../../../assets/download.svg";
 
-import styles from "./DataGridHeader.module.css";
+import styles from "./dataGridHeader.module.css";
 
 interface DataGridHeaderProps {
   selectedItems: string[];
